@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Chores" max_length="40" name="x_295528_chores_ze_chores" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="Empty Dishwasher" sequence="1" value="Empty Dishwasher"/>
+                <element label="Do Laundry" sequence="2" value="Do Laundry"/>
+                <element label="Take Trash" sequence="3" value="Take Trash"/>
+                <element label="Vaccum" sequence="4" value="Vaccum"/>
+            </choice>
+        </element>
+    </element>
+</database>

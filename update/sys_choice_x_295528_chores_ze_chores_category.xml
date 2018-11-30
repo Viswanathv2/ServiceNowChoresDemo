@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_295528_chores_ze_chores" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Empty Dishwasher</label>
+            <language>en</language>
+            <name>x_295528_chores_ze_chores</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 16:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8c7d5864f022300f76f8deba310c772</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:24:50</sys_updated_on>
+            <value>Empty Dishwasher</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Do Laundry</label>
+            <language>en</language>
+            <name>x_295528_chores_ze_chores</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 16:14:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ef7590a4f022300f76f8deba310c72f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:23:40</sys_updated_on>
+            <value>Do Laundry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Take Trash</label>
+            <language>en</language>
+            <name>x_295528_chores_ze_chores</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 16:13:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78f7d50a4f022300f76f8deba310c741</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:25:22</sys_updated_on>
+            <value>Take Trash</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vaccum</label>
+            <language>en</language>
+            <name>x_295528_chores_ze_chores</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 16:13:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72e719864f022300f76f8deba310c7bb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:23:44</sys_updated_on>
+            <value>Vaccum</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_295528_chores_ze_chores</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-29 16:13:41</sys_created_on>
+            <sys_id>fee7154e4f022300f76f8deba310c7ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Chores_Zero" source="x_295528_chores_ze">4ba949064f022300f76f8deba310c741</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Chores_Zero">4ba949064f022300f76f8deba310c741</sys_scope>
+            <sys_update_name>sys_choice_x_295528_chores_ze_chores_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-29 16:13:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
